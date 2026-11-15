@@ -98,7 +98,7 @@ macOS/Linux: ~/.config/opencode/
 - 本仓库为其提供了**开箱即用的配置模板**和**中文文档**，0 行代码
 - 该方案同样适用于 MiniMax、GLM 等一切不支持图片输入的 opencode 模型
 
-本仓库还收录技能包：[抖音实地数据采集（免登录）](./skills/douyin-field-collect/)。
+本仓库还收录技能包：[抖音实地数据采集（免登录）](./skills/douyin-field-collect/)、[同一首原伴奏识别](./skills/original-score-identify/SKILL.md)。
 
 ## 📄 License
 
